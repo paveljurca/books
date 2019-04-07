@@ -35,6 +35,15 @@ A library is an arsenal of liberty / unknown
 * [Bret Victor's](http://worrydream.com/quotes/)
 
 
+CAMUS
+=====
+
+>>
+A. Camus, Šťastná smrt, Praha: Garamond, 2006 (překl. L. Šerý), s. 40 (1. vyd.).
+
+<<
+
+
 LAICHTER
 ========
 

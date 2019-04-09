@@ -40,7 +40,17 @@ CAMUS
 
 >>
 A. Camus, Šťastná smrt, Praha: Garamond, 2006 (překl. L. Šerý), s. 40 (1. vyd.).
-
+Nemám rád snadná řešení ani romantismus [] všiml jsem si, že u některých
+příslušníků elity se projevuje duchovní snobismus v podobě víry, že peníze
+nejsou ke štěstí nezbytně nutné. Je to hloupé, falešné a v jistém smyslu
+i zbabělé přesvědčení.
+Víte, Mersaulte, když se někdo dobře narodí, být šťastný pro něj nikdy
+není příliš komplikované [] K dosažení štěstí je třeba pouze čas. Hodně
+času. I štěstí je dílem velké trpělivosti. A téměř všichni užíváme své
+životy k získávání peněz, zatímco bychom měli užívat peněz k získávání
+času [] Dobře vím, že většina bohatých lidí nemá vůbec smysl pro štěstí.
+Ale o to nejde. Mít peníze znamená mít čas. Na tom trvám. Čas se kupuje.
+Všechno se kupuje. Být bohatý nebo zbohatnout znamená mít čas být šťastný []
 <<
 
 

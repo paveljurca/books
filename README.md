@@ -35,6 +35,11 @@ A library is an arsenal of liberty / unknown
 * [Bret Victor's](http://worrydream.com/quotes/)
 
 
+* ut aliquid fieri videatur / aby se zachovalo zdání
+
+* Senatores boni viri, senatus autem bestia / Senát jsou dobří mužové, senát je šelma
+
+
 ==============
 A. Einstein, Mein Weltbild, 1930
 ==============

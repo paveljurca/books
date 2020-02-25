@@ -35,6 +35,81 @@ A library is an arsenal of liberty / unknown
 * [Bret Victor's](http://worrydream.com/quotes/)
 
 
+==============
+A. Einstein, Mein Weltbild, 1930
+==============
+
+A. Einstein, Jak vidím svět, Praha: NLN, 1993 (překl. H. Karlach), s. 8 (1. vyd.).
+Nepokládám za spravedlivé, že jsou mezi lidmi sociální rozdíly, zdá se mi,
+že koneckonců mají svůj původ v násilí. A také mám za to, že pro kohokoliv,
+pro jeho tělo i ducha, je dobré, když žije skromně a nenáročně. Vůbec nevěřím
+na svobodu člověka ve filosofickém smyslu. Každý jedná nejen pod vnějším tlakem,
+ale i podle jakéhosi vnitřního nezbytí.
+
+A. Einstein, Jak vidím svět, Praha: NLN, 1993 (překl. H. Karlach), s. 8 (1. vyd.).
+Většinu toho, co víme a v co věříme, nám sdělili jiní lidé, prostřednictvím řeči,
+kterou stvořili jiní. Naše schopnost uvažovat by bez fenoménu řeči byla velice chatrná
+[..] za náskok, který máme před zvířaty, v první řadě vděčíme našemu životu
+v lidské pospolitosti. Jedinec — kdyby byl od narození ponechán sám sobě —
+by se v myšlení ani v cítění nevymanil z primitivity rovnající se téměř zvířecí;
+ani si to pořádně nedokážeme představit. [..] Pouze jednotlivec dokáže přemýšlet
+a tak vytvářet pro společnost nové hodnoty, ba stanovit nové mravní normy [..]
+
+A. Einstein, Jak vidím svět, Praha: NLN, 1993 (překl. H. Karlach), s. 16 (1. vyd.).
+Dnes však studenti už nejsou nositeli nadějí a ideálů národa, a stejně tak jimi
+nejsou vysokoškolští učitelé. To si musí přiznat každý, kdo uvažuje o naší době
+bez vášní, se střízlivou myslí.
+
+A. Einstein, Jak vidím svět, Praha: NLN, 1993 (překl. H. Karlach), s. 17 (1. vyd.).
+Ostatně přicházím do Princetonu, abych tu bádal, ne jako vychovatel. Vůbec se všude
+až moc vychovává, zvláště na amerických školách. Ona ale neexistuje žádná lepší výchova
+než být příkladem, a nejde-li to jinak, i odstrašujícím.
+
+A. Einstein, Jak vidím svět, Praha: NLN, 1993 (překl. H. Karlach), s. 18 (1. vyd.).
+[..] Ale protože se mladý člověk nadlouho vzdálí normální práci, jaká utužuje vůli,
+a vydá se všanch přemítání o svém fyzickém stavu, snadno se mu vytratí duševní střeh,
+pocit, že je v životním zápase bojovníkem plnohodnotným. Promění se v cosi jako skleníkovou
+květinu, a když se tělesně zotaví, často jen svízelně nachází cestu zpátky k normálnímu
+životu. [..] Ve světle tohoto poznání se uvádějí do života vysokoškolské kursy, které
+mají být nejen jakousi předběžnou průpravou pro povolání, ale obecně mají podněcovat
+jakoukoliv duchovní aktivitu. Mají poskytovat práci, výcvik i hygienu na duchovním poli.
+
+A. Einstein, Jak vidím svět, Praha: NLN, 1993 (překl. H. Karlach), s. 36 (1. vyd.).
+Nestačí vzdělat člověka v některém speciálním oboru. Tím se z něho sice stane cosi
+jako použitelný stroj, ale nikoliv plnohodnotná osobnost [..] Musí se mu dostat
+živého citu pro to, co je krásné a co je mravně dobré. Jinak svým specializovaným
+umem bude připomínat spíš dobře cvičeného psa [..] Musí se naučit rozumět pohnutkám
+lidí, jejich iluzím, jejich trápení, aby se dobral správného postoje vůči jednotlivým
+bližním a vůči pospolitosti. Tyhle cenné dovednosti prostředkuje mladým generacím
+osobní styk s vyučujícími [..] Především takovýto kontakt vytváří kulturu a udržuje ji.
+[..] Přehnané zdůrazňování soutěživosti a předčasná specializace řídící se jen a jen
+hlediskem bezprostřední užitečnosti usmrcuje ducha, na kterém závisí veškerá kulturnost
+a tím koneckonců i rozkvět všech speciálních vědních oborů. Podstatou jakékoliv výchovy,
+pokud má mít cenu, je i to, že u mladého člověka rozvíjí samostatné kritické myšlení;
+a takovýto rozvoj je vždy ohrožován jakýmkoliv přetěžováním vědomostmi (bodovací systém).
+Přetěžování nutně vede k povrchnosti a k nekulturnosti. Učení má být takové, aby to,
+co se studentům předkládá, chápali jako cenný dar a ne jako cosi povinného,
+co jim má zkazit dobrou náladu.
+
+A. Einstein, Jak vidím svět, Praha: NLN, 1993 (překl. H. Karlach), s. 56 (1. vyd.).
+[..] ve svobodné ekonomice je většina lidí nucena vydělávat si na existenční minimum
+prací ve mzdě. Ze dvou továrníků vyrábějících totéž zboží je tedy za podmínek jinak
+stejných schopen produkovat levnější zboží ten z nich, který zaměstnává méně dělníků,
+to jest nutí jednotlivého dělníka pracovat tak dlouho a tak intenzivně, kolik vůbec
+dovoluje přirozené ustrojení člověka. Z toho ovšem nutně vyplývá, že při dnešním
+stupni vývoje pracovních postupů najde uplatnění jenom část pracovních sil. Tato
+část se nerozumně přetěžuje, a zbytek je z výrobního procesu automaticky vyřazen.
+Tím klesá odbyt zboží a rentabilita. Podniky z finančních důvodů zanikají. Výsledkem
+je další nezaměstnanost [..]
+
+A. Einstein, Jak vidím svět, Praha: NLN, 1993 (překl. H. Karlach), s. 60 (1. vyd.).
+Zásadní nešvar vidím v tom, že se téměř neomezená svoboda na trhu pracovních sil
+snoubí s neuvěřitelnými pokroky ve výrobních technologiích. Aby se vyrobilo všechno,
+co je nezbytné pro dnešní potřeby, na to stačí daleko méně pracovních sil [..]
+Z toho povstává nezaměstnanost a nezdravá konkurence mezi námezdními pracovníky [..]
+
+
+
 CAMUS
 =====
 
